@@ -1,0 +1,126 @@
+{
+    "results": [
+        {
+            "backdrop_path": "/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg",
+            "id": 94997,
+            "original_name": "House of the Dragon",
+            "overview": "The prequel series finds the Targaryen dynasty at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires—real and imagined—crumble from such heights. In the case of the Targaryens, their slow fall begins almost 193 years before the events of Game of Thrones, when King Viserys Targaryen breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
+            "poster_path": "/z2yahl2uefxDCl0nogcRBstwruJ.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                18,
+                10759,
+                10765
+            ],
+            "popularity": 1303.749,
+            "first_air_date": "2022-08-21",
+            "vote_average": 9.022,
+            "vote_count": 139,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+            "id": 92783,
+            "name": "She-Hulk: Attorney at Law",
+            "original_language": "en",
+            "original_name": "She-Hulk: Attorney at Law",
+            "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+            "poster_path": "/hJfI6AGrmr4uSHRccfJuSsapvOb.jpg",
+            "media_type": "tv",
+            "genre_ids": [
+                35,
+                10759,
+                10765
+            ],
+            "first_air_date": "2022-08-18",
+            "vote_average": 7.518,
+            "vote_count": 253,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6cpRpfD3isvluFwXDGSiDVyibPJ.jpg",
+            "id": 829560,
+            "original_language": "pl",
+            "original_title": "Kolejne 365 dni",
+            "overview": "Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.",
+            "poster_path": "/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 1284.447,
+            "release_date": "2022-08-19",
+            "vote_average": 7.2,
+            "vote_count": 180
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ft1jH9Zrjx48obILr8NpgfvLYku.jpg",
+            "id": 760161,
+            "title": "Orphan: First Kill",
+            "original_language": "en",
+            "original_title": "Orphan: First Kill",
+            "overview": "After escaping from an Estonian psychiatric facility, Leena Klammer travels to America by impersonating Esther, the missing daughter of a wealthy family. But when her mask starts to slip, she is put against a mother who will protect her family from the murderous “child” at any cost.",
+            "poster_path": "/cQYfh1jWzeizgJI2Z66y9h8YKTU.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 572.349,
+            "release_date": "2022-07-27",
+            "video": false,
+            "vote_average": 7.299,
+            "vote_count": 187
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/odJ4hx6g6vBt4lBWKFD1tI8WS4x.jpg",
+            "id": 361743,
+            "title": "Top Gun: Maverick",
+            "original_language": "en",
+            "original_title": "Top Gun: Maverick",
+            "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+            "poster_path": "/62HCnUTziyWcpDaBO2i1DX17ljH.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "popularity": 4418.797,
+            "release_date": "2022-05-24",
+            "video": false,
+            "vote_average": 8.327,
+            "vote_count": 2372
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yaze6df9AMIA9oeDEbIZ4zOTRCJ.jpg",
+            "id": 960700,
+            "title": "Fullmetal Alchemist the Revenge of Scar",
+            "original_language": "ja",
+            "original_title": "鋼の錬金術師 完結編 復讐者スカー",
+            "overview": "The Elric brothers meet their toughest opponent yet — a lone serial killer with a large scar on his forehead.",
+            "poster_path": "/14lQfkLDgEIrEtyUMfj5rJEKVlS.jpg",
+            "media_type": "movie",
+            "genre_ids": [
+                28,
+                12,
+                14
+            ],
+            "popularity": 16.46,
+            "release_date": "2022-05-20",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 6
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}

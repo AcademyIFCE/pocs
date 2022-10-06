@@ -1,0 +1,18 @@
+PODS:
+  - ModelMapper (10.0.1):
+    - ModelMapper/Core (= 10.0.1)
+  - ModelMapper/Core (10.0.1)
+
+DEPENDENCIES:
+  - ModelMapper
+
+SPEC REPOS:
+  trunk:
+    - ModelMapper
+
+SPEC CHECKSUMS:
+  ModelMapper: 0f68dd4300d0e27290c70f66492c7f795da21bcf
+
+PODFILE CHECKSUM: 0aaa128b5f50a24c3aedefd0e814795688f1b04f
+
+COCOAPODS: 1.11.2
